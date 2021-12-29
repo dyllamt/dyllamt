@@ -1,1 +1,1 @@
-Hi, I'm working at the intersection of batteries and data science. We're applying machine learning to cell design and quality assessment.
+Hi, I'm working at the intersection of batteries and data science. We're applying machine learning to cell design and quality assessment. You can reach me at my organization email <maxwell.dylla@cuberg.net>.
