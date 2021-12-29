@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @dyllamt
-- 👀 I’m interested in materials development using machine learning.
-- 🌱 I’m currently learning about backend development with FastAPI.
-- 📫 How to reach me via email at maxwell.dylla@cuberg.net.
+Hi, I'm working at the intersection of batteries and data science. We're applying machine learning to cell design and quality assessment.
