@@ -1,1 +1,1 @@
-Hi, I'm working at the intersection of batteries and data science. We're applying machine learning to cell design, quality assessment, and state estimation. You can reach me at my organization email <maxwell.dylla@cuberg.net>.
+Hi, I'm working at the intersection of batteries and data science. We're applying machine learning to cell design, quality assessment, and state estimation. You can learn more about me on my website <www.maxwell-dylla.com>.
