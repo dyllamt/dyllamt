@@ -1,1 +1,6 @@
-Hi, I'm working at the intersection of energy technology and data science. We're applying machine learning to battery cell design, quality assessment, and state estimation. You can learn more about me on my website [maxwell-dylla.com](https://maxwell-dylla.com).
+<div align="center">
+
+I'm Maxwell, an engineer living in Oakland, CA. Not a robot.
+
+
+</div>
