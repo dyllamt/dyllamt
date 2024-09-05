@@ -1,5 +1,5 @@
 <div align="center">
 
-I'm Maxwell, an engineer living in Oakland, CA.
+I'm Max, an engineer living in Oakland, CA.
 
 </div>
